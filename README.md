@@ -1,7 +1,7 @@
 ## About Me
 ### Hi, I'm Jin Wei!
 
-I am a **UC Berkeley** student (*Go Bears!*) studying **Electrical Engineering and Computer Sciences**. I am interested in all things CS! A few fields in particular are iOS development, machine learning and computational imaging. I am always open to learning new technologies or collaborating on projects! Hackathons? Open source? I'm down!
+I am a **UC Berkeley** student (*Go Bears!*) studying **Electrical Engineering and Computer Sciences (EECS)**. I am interested in all things CS! A few fields in particular are iOS development, machine learning and computational imaging. I am always open to learning new technologies or collaborating on projects! Hackathons? Open source? I'm down!
 
 ## Languages and Tools
 
